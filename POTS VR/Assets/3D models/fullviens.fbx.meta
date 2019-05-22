@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: d403603c8e7809f4a9b58cb3940afde0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCircle.002
+    100002: BezierCircle.003
+    100004: Camera
+    100006: //RootNode
+    100008: Lamp
+    100010: NurbsPath.050
+    100012: NurbsPath.051
+    100014: NurbsPath.052
+    100016: NurbsPath.053
+    100018: NurbsPath.054
+    100020: NurbsPath.055
+    100022: NurbsPath.056
+    100024: NurbsPath.057
+    100026: NurbsPath.058
+    100028: NurbsPath.059
+    100030: NurbsPath.060
+    100032: NurbsPath.062
+    100034: NurbsPath.063
+    100036: NurbsPath.064
+    100038: NurbsPath.065
+    100040: NurbsPath.066
+    100042: NurbsPath.067
+    100044: NurbsPath.068
+    100046: NurbsPath.069
+    100048: Skin_low.003
+    400000: BezierCircle.002
+    400002: BezierCircle.003
+    400004: Camera
+    400006: //RootNode
+    400008: Lamp
+    400010: NurbsPath.050
+    400012: NurbsPath.051
+    400014: NurbsPath.052
+    400016: NurbsPath.053
+    400018: NurbsPath.054
+    400020: NurbsPath.055
+    400022: NurbsPath.056
+    400024: NurbsPath.057
+    400026: NurbsPath.058
+    400028: NurbsPath.059
+    400030: NurbsPath.060
+    400032: NurbsPath.062
+    400034: NurbsPath.063
+    400036: NurbsPath.064
+    400038: NurbsPath.065
+    400040: NurbsPath.066
+    400042: NurbsPath.067
+    400044: NurbsPath.068
+    400046: NurbsPath.069
+    400048: Skin_low.003
+    2000000: Camera
+    2100000: Material.006
+    2100002: Material.005
+    2100004: Material.001
+    2100006: Material.003
+    2100008: Material.004
+    2100010: Material.002
+    2100012: skin
+    2300000: BezierCircle.002
+    2300002: BezierCircle.003
+    2300004: NurbsPath.050
+    2300006: NurbsPath.051
+    2300008: NurbsPath.052
+    2300010: NurbsPath.053
+    2300012: NurbsPath.054
+    2300014: NurbsPath.055
+    2300016: NurbsPath.056
+    2300018: NurbsPath.057
+    2300020: NurbsPath.058
+    2300022: NurbsPath.059
+    2300024: NurbsPath.060
+    2300026: NurbsPath.062
+    2300028: NurbsPath.063
+    2300030: NurbsPath.064
+    2300032: NurbsPath.065
+    2300034: NurbsPath.066
+    2300036: NurbsPath.067
+    2300038: NurbsPath.068
+    2300040: NurbsPath.069
+    2300042: Skin_low.003
+    3300000: BezierCircle.002
+    3300002: BezierCircle.003
+    3300004: NurbsPath.050
+    3300006: NurbsPath.051
+    3300008: NurbsPath.052
+    3300010: NurbsPath.053
+    3300012: NurbsPath.054
+    3300014: NurbsPath.055
+    3300016: NurbsPath.056
+    3300018: NurbsPath.057
+    3300020: NurbsPath.058
+    3300022: NurbsPath.059
+    3300024: NurbsPath.060
+    3300026: NurbsPath.062
+    3300028: NurbsPath.063
+    3300030: NurbsPath.064
+    3300032: NurbsPath.065
+    3300034: NurbsPath.066
+    3300036: NurbsPath.067
+    3300038: NurbsPath.068
+    3300040: NurbsPath.069
+    3300042: Skin_low.003
+    4300000: BezierCircle.002
+    4300002: BezierCircle.003
+    4300004: NurbsPath.050
+    4300006: NurbsPath.051
+    4300008: NurbsPath.052
+    4300010: NurbsPath.053
+    4300012: NurbsPath.054
+    4300014: NurbsPath.055
+    4300016: NurbsPath.056
+    4300018: NurbsPath.057
+    4300020: NurbsPath.058
+    4300022: NurbsPath.059
+    4300024: NurbsPath.060
+    4300026: NurbsPath.062
+    4300028: NurbsPath.063
+    4300030: NurbsPath.064
+    4300032: NurbsPath.065
+    4300034: NurbsPath.066
+    4300036: NurbsPath.067
+    4300038: NurbsPath.068
+    4300040: NurbsPath.069
+    4300042: Skin_low.003
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

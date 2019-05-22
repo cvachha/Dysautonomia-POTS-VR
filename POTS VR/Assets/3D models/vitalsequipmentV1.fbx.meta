@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: b965f22237a29e842895b5ea7fef12b9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cone
+    100004: Cone.001
+    100006: Cone.002
+    100008: Cone.003
+    100010: Cone.004
+    100012: Cube
+    100014: Cube.001
+    100016: Cube.002
+    100018: Cube.003
+    100020: Cube.004
+    100022: Cube.005
+    100024: Cube.006
+    100026: Cube.007
+    100028: Cube.008
+    100030: Cube.009
+    100032: Cube.010
+    100034: Cube.011
+    100036: Cube.012
+    100038: Cube.013
+    100040: Cylinder
+    100042: Cylinder.001
+    100044: Cylinder.002
+    100046: Cylinder.003
+    100048: Cylinder.004
+    100050: Cylinder.005
+    100052: Cylinder.006
+    100054: Cylinder.007
+    100056: Cylinder.008
+    100058: Lamp
+    100060: Plane
+    100062: Sphere
+    100064: Torus Knot 6 x 4
+    100066: //RootNode
+    400000: Camera
+    400002: Cone
+    400004: Cone.001
+    400006: Cone.002
+    400008: Cone.003
+    400010: Cone.004
+    400012: Cube
+    400014: Cube.001
+    400016: Cube.002
+    400018: Cube.003
+    400020: Cube.004
+    400022: Cube.005
+    400024: Cube.006
+    400026: Cube.007
+    400028: Cube.008
+    400030: Cube.009
+    400032: Cube.010
+    400034: Cube.011
+    400036: Cube.012
+    400038: Cube.013
+    400040: Cylinder
+    400042: Cylinder.001
+    400044: Cylinder.002
+    400046: Cylinder.003
+    400048: Cylinder.004
+    400050: Cylinder.005
+    400052: Cylinder.006
+    400054: Cylinder.007
+    400056: Cylinder.008
+    400058: Lamp
+    400060: Plane
+    400062: Sphere
+    400064: Torus Knot 6 x 4
+    400066: //RootNode
+    2000000: Camera
+    2100000: No Name
+    2100002: Material.027
+    2100004: Material.026
+    2100006: Material.025
+    2100008: Material.021
+    2100010: Material.024
+    2100012: Material.022
+    2100014: Material.023
+    2100016: Material.020
+    2100018: Material.006
+    2100020: Material.004
+    2100022: Material.007
+    2100024: Material.009
+    2100026: Material.005
+    2100028: Material.003
+    2100030: Material.001
+    2100032: Material.002
+    2100034: Material.010
+    2100036: Material.016
+    2100038: Material.017
+    2100040: Material.019
+    2100042: Material.018
+    2100044: Material.014
+    2100046: Material.015
+    2100048: Material.013
+    2100050: Material.011
+    2100052: Material.012
+    2100054: Material.028
+    2100056: Material
+    2300000: Cone
+    2300002: Cone.001
+    2300004: Cone.002
+    2300006: Cone.003
+    2300008: Cone.004
+    2300010: Cube
+    2300012: Cube.001
+    2300014: Cube.002
+    2300016: Cube.003
+    2300018: Cube.004
+    2300020: Cube.005
+    2300022: Cube.006
+    2300024: Cube.007
+    2300026: Cube.008
+    2300028: Cube.009
+    2300030: Cube.010
+    2300032: Cube.011
+    2300034: Cube.012
+    2300036: Cube.013
+    2300038: Cylinder
+    2300040: Cylinder.001
+    2300042: Cylinder.002
+    2300044: Cylinder.003
+    2300046: Cylinder.004
+    2300048: Cylinder.005
+    2300050: Cylinder.006
+    2300052: Cylinder.007
+    2300054: Cylinder.008
+    2300056: Plane
+    2300058: Sphere
+    2300060: Torus Knot 6 x 4
+    3300000: Cone
+    3300002: Cone.001
+    3300004: Cone.002
+    3300006: Cone.003
+    3300008: Cone.004
+    3300010: Cube
+    3300012: Cube.001
+    3300014: Cube.002
+    3300016: Cube.003
+    3300018: Cube.004
+    3300020: Cube.005
+    3300022: Cube.006
+    3300024: Cube.007
+    3300026: Cube.008
+    3300028: Cube.009
+    3300030: Cube.010
+    3300032: Cube.011
+    3300034: Cube.012
+    3300036: Cube.013
+    3300038: Cylinder
+    3300040: Cylinder.001
+    3300042: Cylinder.002
+    3300044: Cylinder.003
+    3300046: Cylinder.004
+    3300048: Cylinder.005
+    3300050: Cylinder.006
+    3300052: Cylinder.007
+    3300054: Cylinder.008
+    3300056: Plane
+    3300058: Sphere
+    3300060: Torus Knot 6 x 4
+    4300000: Cylinder.008
+    4300002: Torus Knot 6 x 4
+    4300004: Sphere
+    4300006: Cylinder.007
+    4300008: Cylinder.006
+    4300010: Cube.013
+    4300012: Cube.012
+    4300014: Cube.011
+    4300016: Cube.010
+    4300018: Cube.009
+    4300020: Cube.008
+    4300022: Cube.007
+    4300024: Cylinder.005
+    4300026: Cone.004
+    4300028: Cone.003
+    4300030: Cylinder.004
+    4300032: Cylinder.003
+    4300034: Cone.002
+    4300036: Cone.001
+    4300038: Cylinder.002
+    4300040: Cube.006
+    4300042: Cone
+    4300044: Cylinder.001
+    4300046: Cylinder
+    4300048: Cube.005
+    4300050: Cube.004
+    4300052: Cube.003
+    4300054: Cube.002
+    4300056: Plane
+    4300058: Cube.001
+    4300060: Cube
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080007718b4291c4b81f20ad5792da9c, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: da227fbd4465e5549aa8ec50f9870827, type: 2}
+  - {fileID: 11400000, guid: 6cb08eacc82f2bc468cbaf956219d365, type: 2}
+  - {fileID: 11400000, guid: 99ebfa690ef0ada4aa87834a8f105444, type: 2}
+  - {fileID: 11400000, guid: 54a488b546a9d234d98bb719e3116435, type: 2}
+  - {fileID: 11400000, guid: ef5f12537649f21499857dca8a224693, type: 2}
+  - {fileID: 11400000, guid: f518b5f8feaa3d949bc1cf9eb2e1ade2, type: 2}
+  - {fileID: 11400000, guid: 0231f61a9e97e1c4cbb36ba83c8781ee, type: 2}
+  - {fileID: 11400000, guid: 043a5dcf53cf0f145b014dc938af10b6, type: 2}
+  - {fileID: 11400000, guid: 78379abcd72d7b7469b2970807fec871, type: 2}
+  - {fileID: 11400000, guid: 61ea5e7982d8992438f31d80732d0728, type: 2}
+  InteractUI: {fileID: 11400000, guid: da227fbd4465e5549aa8ec50f9870827, type: 2}
+  Teleport: {fileID: 11400000, guid: 6cb08eacc82f2bc468cbaf956219d365, type: 2}
+  GrabPinch: {fileID: 11400000, guid: 99ebfa690ef0ada4aa87834a8f105444, type: 2}
+  GrabGrip: {fileID: 11400000, guid: 54a488b546a9d234d98bb719e3116435, type: 2}
+  Pose: {fileID: 11400000, guid: ef5f12537649f21499857dca8a224693, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: f518b5f8feaa3d949bc1cf9eb2e1ade2, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: 0231f61a9e97e1c4cbb36ba83c8781ee, type: 2}
+  Squeeze: {fileID: 11400000, guid: 043a5dcf53cf0f145b014dc938af10b6, type: 2}
+  TouchpadTouch: {fileID: 11400000, guid: 78379abcd72d7b7469b2970807fec871, type: 2}
+  MenuButtonPress: {fileID: 11400000, guid: 61ea5e7982d8992438f31d80732d0728, type: 2}
